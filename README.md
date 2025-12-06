@@ -29,7 +29,7 @@ consulta-cep-python/
 # Instalação e Uso
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/consulta-cep-python.git
+git clone https://github.com/TiagoMarques2004/consulta-cep-python.git
 cd consulta-cep-python
 
 
