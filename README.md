@@ -1,8 +1,8 @@
-#Consulta de CEP em Python
+# Consulta de CEP em Python
 Aplicação simples desenvolvida em Python para consultar informações de endereço a partir de um CEP, utilizando a API pública **BrasilAPI**.  
 O projeto é ideal para quem está iniciando em Python, consumindo APIs e organizando um repositório profissional no GitHub.
 
-##Funcionalidades
+# Funcionalidades
 
 - Consulta de CEP via API BrasilAPI  
 - Retorno com:
@@ -12,7 +12,7 @@ O projeto é ideal para quem está iniciando em Python, consumindo APIs e organi
   - Estado (UF)    
 - Tratamento de erros (CEP inválido, conexão, etc.)
 
-##Estrutura do Projeto
+# Estrutura do Projeto
 consulta-cep-python/
 │── src/
 │ └── main.py # Arquivo principal do programa
@@ -20,13 +20,13 @@ consulta-cep-python/
 │── .gitignore # Arquivos/pastas ignoradas pelo Git
 
 
-## 🛠 Tecnologias Utilizadas
+#  Tecnologias Utilizadas
 
 - **Python 3.x**
 - Biblioteca `requests`
 - API ViaCEP (https://brasilapi.com.br/api/cep/v1/{cep})
 
-## 📦 Instalação e Uso
+# Instalação e Uso
 1. Clone o repositório:
 ```bash
 git clone https://github.com/SEU_USUARIO/consulta-cep-python.git
